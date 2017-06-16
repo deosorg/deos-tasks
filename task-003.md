@@ -15,7 +15,7 @@
 
 #### `Complete`
 ```yaml
-@desantis:
+desantis:
   atdlib:
   - atdlib-deArray
   - atdlib-deList

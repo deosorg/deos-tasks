@@ -5,7 +5,7 @@
 
 #### `Inbox`
 ```yaml
-@desantis:
+desantis:
   atdlib:
   - atdlib-deArray
   - atdlib-deList
@@ -55,7 +55,7 @@
 
 #### `Complete`
 ```yaml
-@desantis:
+desantis:
   deos:
   - deos-core
   - deos-rsksmart
