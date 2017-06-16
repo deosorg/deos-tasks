@@ -1,1 +1,10 @@
-# deos-tasks
+
+---
+
+# `deos-tasks`
+
+## Commands
+
+* `make all`
+
+---
